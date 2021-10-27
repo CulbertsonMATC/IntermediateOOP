@@ -1,0 +1,7 @@
+C:\Users\jabba\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+C:\Users\jabba\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.exe
+C:\Users\jabba\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+C:\Users\jabba\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+C:\Users\jabba\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.pdb

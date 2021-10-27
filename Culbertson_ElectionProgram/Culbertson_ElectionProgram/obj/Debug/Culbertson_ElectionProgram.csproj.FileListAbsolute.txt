@@ -1,0 +1,7 @@
+C:\Users\jabba\source\repos\Culbertson_ElectionProgram\Culbertson_ElectionProgram\obj\Debug\Culbertson_ElectionProgram.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\Culbertson_ElectionProgram\Culbertson_ElectionProgram\obj\Debug\Culbertson_ElectionProgram.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\Culbertson_ElectionProgram\Culbertson_ElectionProgram\bin\Debug\Culbertson_ElectionProgram.exe.config
+C:\Users\jabba\source\repos\Culbertson_ElectionProgram\Culbertson_ElectionProgram\bin\Debug\Culbertson_ElectionProgram.exe
+C:\Users\jabba\source\repos\Culbertson_ElectionProgram\Culbertson_ElectionProgram\bin\Debug\Culbertson_ElectionProgram.pdb
+C:\Users\jabba\source\repos\Culbertson_ElectionProgram\Culbertson_ElectionProgram\obj\Debug\Culbertson_ElectionProgram.exe
+C:\Users\jabba\source\repos\Culbertson_ElectionProgram\Culbertson_ElectionProgram\obj\Debug\Culbertson_ElectionProgram.pdb

@@ -1,0 +1,7 @@
+C:\Users\jabba\source\repos\Culbertson_StudentStudyApp\Culbertson_StudentStudyApp\bin\Debug\Culbertson_StudentStudyApp.exe.config
+C:\Users\jabba\source\repos\Culbertson_StudentStudyApp\Culbertson_StudentStudyApp\bin\Debug\Culbertson_StudentStudyApp.exe
+C:\Users\jabba\source\repos\Culbertson_StudentStudyApp\Culbertson_StudentStudyApp\bin\Debug\Culbertson_StudentStudyApp.pdb
+C:\Users\jabba\source\repos\Culbertson_StudentStudyApp\Culbertson_StudentStudyApp\obj\Debug\Culbertson_StudentStudyApp.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\Culbertson_StudentStudyApp\Culbertson_StudentStudyApp\obj\Debug\Culbertson_StudentStudyApp.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\Culbertson_StudentStudyApp\Culbertson_StudentStudyApp\obj\Debug\Culbertson_StudentStudyApp.exe
+C:\Users\jabba\source\repos\Culbertson_StudentStudyApp\Culbertson_StudentStudyApp\obj\Debug\Culbertson_StudentStudyApp.pdb

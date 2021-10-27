@@ -1,0 +1,6 @@
+C:\Users\jabba\source\repos\Culbertson_RectangleApp\Culbertson_RectangleApp\obj\Debug\Culbertson_RectangleApp.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\Culbertson_RectangleApp\Culbertson_RectangleApp\bin\Debug\Culbertson_RectangleApp.exe.config
+C:\Users\jabba\source\repos\Culbertson_RectangleApp\Culbertson_RectangleApp\bin\Debug\Culbertson_RectangleApp.exe
+C:\Users\jabba\source\repos\Culbertson_RectangleApp\Culbertson_RectangleApp\bin\Debug\Culbertson_RectangleApp.pdb
+C:\Users\jabba\source\repos\Culbertson_RectangleApp\Culbertson_RectangleApp\obj\Debug\Culbertson_RectangleApp.exe
+C:\Users\jabba\source\repos\Culbertson_RectangleApp\Culbertson_RectangleApp\obj\Debug\Culbertson_RectangleApp.pdb

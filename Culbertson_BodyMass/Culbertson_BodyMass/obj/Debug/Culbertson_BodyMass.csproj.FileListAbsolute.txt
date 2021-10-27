@@ -1,0 +1,7 @@
+C:\Users\jabba\source\repos\Culbertson_BodyMass\Culbertson_BodyMass\obj\Debug\Culbertson_BodyMass.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\Culbertson_BodyMass\Culbertson_BodyMass\obj\Debug\Culbertson_BodyMass.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\Culbertson_BodyMass\Culbertson_BodyMass\bin\Debug\Culbertson_BodyMass.exe.config
+C:\Users\jabba\source\repos\Culbertson_BodyMass\Culbertson_BodyMass\bin\Debug\Culbertson_BodyMass.exe
+C:\Users\jabba\source\repos\Culbertson_BodyMass\Culbertson_BodyMass\bin\Debug\Culbertson_BodyMass.pdb
+C:\Users\jabba\source\repos\Culbertson_BodyMass\Culbertson_BodyMass\obj\Debug\Culbertson_BodyMass.exe
+C:\Users\jabba\source\repos\Culbertson_BodyMass\Culbertson_BodyMass\obj\Debug\Culbertson_BodyMass.pdb

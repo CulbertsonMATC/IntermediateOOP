@@ -1,0 +1,7 @@
+C:\Users\jabba\source\repos\Culbertson_ArrayList\Culbertson_ArrayList\bin\Debug\Culbertson_ArrayList.exe.config
+C:\Users\jabba\source\repos\Culbertson_ArrayList\Culbertson_ArrayList\bin\Debug\Culbertson_ArrayList.exe
+C:\Users\jabba\source\repos\Culbertson_ArrayList\Culbertson_ArrayList\bin\Debug\Culbertson_ArrayList.pdb
+C:\Users\jabba\source\repos\Culbertson_ArrayList\Culbertson_ArrayList\obj\Debug\Culbertson_ArrayList.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\Culbertson_ArrayList\Culbertson_ArrayList\obj\Debug\Culbertson_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\Culbertson_ArrayList\Culbertson_ArrayList\obj\Debug\Culbertson_ArrayList.exe
+C:\Users\jabba\source\repos\Culbertson_ArrayList\Culbertson_ArrayList\obj\Debug\Culbertson_ArrayList.pdb

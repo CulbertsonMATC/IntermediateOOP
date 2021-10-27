@@ -1,0 +1,7 @@
+C:\Users\jabba\source\repos\Culbertson_MathFun\Culbertson_MathFun\bin\Debug\Culbertson_MathFun.exe.config
+C:\Users\jabba\source\repos\Culbertson_MathFun\Culbertson_MathFun\bin\Debug\Culbertson_MathFun.exe
+C:\Users\jabba\source\repos\Culbertson_MathFun\Culbertson_MathFun\bin\Debug\Culbertson_MathFun.pdb
+C:\Users\jabba\source\repos\Culbertson_MathFun\Culbertson_MathFun\obj\Debug\Culbertson_MathFun.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\Culbertson_MathFun\Culbertson_MathFun\obj\Debug\Culbertson_MathFun.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\Culbertson_MathFun\Culbertson_MathFun\obj\Debug\Culbertson_MathFun.exe
+C:\Users\jabba\source\repos\Culbertson_MathFun\Culbertson_MathFun\obj\Debug\Culbertson_MathFun.pdb

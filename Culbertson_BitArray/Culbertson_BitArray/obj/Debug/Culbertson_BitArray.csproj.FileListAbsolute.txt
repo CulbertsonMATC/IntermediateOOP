@@ -1,0 +1,6 @@
+C:\Users\jabba\source\repos\Culbertson_BitArray\Culbertson_BitArray\bin\Debug\Culbertson_BitArray.exe.config
+C:\Users\jabba\source\repos\Culbertson_BitArray\Culbertson_BitArray\bin\Debug\Culbertson_BitArray.exe
+C:\Users\jabba\source\repos\Culbertson_BitArray\Culbertson_BitArray\bin\Debug\Culbertson_BitArray.pdb
+C:\Users\jabba\source\repos\Culbertson_BitArray\Culbertson_BitArray\obj\Debug\Culbertson_BitArray.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\Culbertson_BitArray\Culbertson_BitArray\obj\Debug\Culbertson_BitArray.exe
+C:\Users\jabba\source\repos\Culbertson_BitArray\Culbertson_BitArray\obj\Debug\Culbertson_BitArray.pdb

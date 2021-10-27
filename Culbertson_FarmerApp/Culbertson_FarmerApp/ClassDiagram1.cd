@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Culbertson_FarmerApp.Program">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Culbertson_FarmerApp.FarmerUI">
+    <Position X="7.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QEAAAAQAAAAIAAABAAgCgAAAAAAAIAAAgAAAAgAAAAA=</HashCode>
+      <FileName>FarmerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Culbertson_FarmerApp.Info">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Culbertson_FarmerApp.Farmer">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Culbertson_FarmerApp.Farmer.Direction" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Farmer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Culbertson_FarmerApp.Farmer.GameState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Farmer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAAAEIAAIACAAAAAAAAACAAAAAAIAACAAAAAAAAAAA=</HashCode>
+      <FileName>Farmer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,7 @@
+C:\Users\jabba\source\repos\Culbertson_MessageBox2\Culbertson_MessageBox2\bin\Debug\Culbertson_MessageBox2.exe.config
+C:\Users\jabba\source\repos\Culbertson_MessageBox2\Culbertson_MessageBox2\bin\Debug\Culbertson_MessageBox2.exe
+C:\Users\jabba\source\repos\Culbertson_MessageBox2\Culbertson_MessageBox2\bin\Debug\Culbertson_MessageBox2.pdb
+C:\Users\jabba\source\repos\Culbertson_MessageBox2\Culbertson_MessageBox2\obj\Debug\Culbertson_MessageBox2.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\Culbertson_MessageBox2\Culbertson_MessageBox2\obj\Debug\Culbertson_MessageBox2.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\Culbertson_MessageBox2\Culbertson_MessageBox2\obj\Debug\Culbertson_MessageBox2.exe
+C:\Users\jabba\source\repos\Culbertson_MessageBox2\Culbertson_MessageBox2\obj\Debug\Culbertson_MessageBox2.pdb

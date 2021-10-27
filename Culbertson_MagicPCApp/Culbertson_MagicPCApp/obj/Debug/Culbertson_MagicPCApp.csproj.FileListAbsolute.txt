@@ -1,0 +1,7 @@
+C:\Users\jabba\source\repos\Culbertson_MagicPCApp\Culbertson_MagicPCApp\obj\Debug\Culbertson_MagicPCApp.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\Culbertson_MagicPCApp\Culbertson_MagicPCApp\obj\Debug\Culbertson_MagicPCApp.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\Culbertson_MagicPCApp\Culbertson_MagicPCApp\bin\Debug\Culbertson_MagicPCApp.exe.config
+C:\Users\jabba\source\repos\Culbertson_MagicPCApp\Culbertson_MagicPCApp\bin\Debug\Culbertson_MagicPCApp.exe
+C:\Users\jabba\source\repos\Culbertson_MagicPCApp\Culbertson_MagicPCApp\bin\Debug\Culbertson_MagicPCApp.pdb
+C:\Users\jabba\source\repos\Culbertson_MagicPCApp\Culbertson_MagicPCApp\obj\Debug\Culbertson_MagicPCApp.exe
+C:\Users\jabba\source\repos\Culbertson_MagicPCApp\Culbertson_MagicPCApp\obj\Debug\Culbertson_MagicPCApp.pdb

@@ -1,0 +1,2 @@
+C:\Users\jabba\source\repos\RectangleExample\RectangleExample\obj\Debug\RectangleExample.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\RectangleExample\RectangleExample\obj\Debug\RectangleExample.csproj.CoreCompileInputs.cache

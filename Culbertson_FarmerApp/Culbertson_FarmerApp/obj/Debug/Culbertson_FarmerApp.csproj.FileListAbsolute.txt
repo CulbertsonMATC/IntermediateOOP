@@ -1,0 +1,7 @@
+C:\Users\jabba\source\repos\Culbertson_FarmerApp\Culbertson_FarmerApp\obj\Debug\Culbertson_FarmerApp.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\Culbertson_FarmerApp\Culbertson_FarmerApp\obj\Debug\Culbertson_FarmerApp.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\Culbertson_FarmerApp\Culbertson_FarmerApp\bin\Debug\Culbertson_FarmerApp.exe.config
+C:\Users\jabba\source\repos\Culbertson_FarmerApp\Culbertson_FarmerApp\bin\Debug\Culbertson_FarmerApp.exe
+C:\Users\jabba\source\repos\Culbertson_FarmerApp\Culbertson_FarmerApp\bin\Debug\Culbertson_FarmerApp.pdb
+C:\Users\jabba\source\repos\Culbertson_FarmerApp\Culbertson_FarmerApp\obj\Debug\Culbertson_FarmerApp.exe
+C:\Users\jabba\source\repos\Culbertson_FarmerApp\Culbertson_FarmerApp\obj\Debug\Culbertson_FarmerApp.pdb
