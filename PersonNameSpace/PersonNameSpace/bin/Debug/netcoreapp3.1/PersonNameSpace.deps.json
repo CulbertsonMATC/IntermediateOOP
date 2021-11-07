@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PersonNameSpace/1.0.0": {
+        "runtime": {
+          "PersonNameSpace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonNameSpace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

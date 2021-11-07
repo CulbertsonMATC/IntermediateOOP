@@ -1,0 +1,10 @@
+C:\Users\jabba\source\repos\PersonNameSpace\PersonNameSpace\bin\Debug\netcoreapp3.1\PersonNameSpace.deps.json
+C:\Users\jabba\source\repos\PersonNameSpace\PersonNameSpace\bin\Debug\netcoreapp3.1\PersonNameSpace.dll
+C:\Users\jabba\source\repos\PersonNameSpace\PersonNameSpace\bin\Debug\netcoreapp3.1\PersonNameSpace.pdb
+C:\Users\jabba\source\repos\PersonNameSpace\PersonNameSpace\obj\Debug\netcoreapp3.1\PersonNameSpace.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\PersonNameSpace\PersonNameSpace\obj\Debug\netcoreapp3.1\PersonNameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabba\source\repos\PersonNameSpace\PersonNameSpace\obj\Debug\netcoreapp3.1\PersonNameSpace.AssemblyInfoInputs.cache
+C:\Users\jabba\source\repos\PersonNameSpace\PersonNameSpace\obj\Debug\netcoreapp3.1\PersonNameSpace.AssemblyInfo.cs
+C:\Users\jabba\source\repos\PersonNameSpace\PersonNameSpace\obj\Debug\netcoreapp3.1\PersonNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\PersonNameSpace\PersonNameSpace\obj\Debug\netcoreapp3.1\PersonNameSpace.dll
+C:\Users\jabba\source\repos\PersonNameSpace\PersonNameSpace\obj\Debug\netcoreapp3.1\PersonNameSpace.pdb

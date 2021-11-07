@@ -1,0 +1,10 @@
+C:\Users\jabba\source\repos\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe.config
+C:\Users\jabba\source\repos\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe
+C:\Users\jabba\source\repos\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.pdb
+C:\Users\jabba\source\repos\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.Properties.Resources.resources
+C:\Users\jabba\source\repos\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.GenerateResource.cache
+C:\Users\jabba\source\repos\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.exe
+C:\Users\jabba\source\repos\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.pdb
+C:\Users\jabba\source\repos\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.Gameplay.resources

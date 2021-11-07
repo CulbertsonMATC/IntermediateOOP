@@ -1,0 +1,7 @@
+C:\Users\jabba\source\repos\Culbertson_TicTacToe\Culbertson_TicTacToe\obj\Debug\Culbertson_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\jabba\source\repos\Culbertson_TicTacToe\Culbertson_TicTacToe\obj\Debug\Culbertson_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\Culbertson_TicTacToe\Culbertson_TicTacToe\bin\Debug\Culbertson_TicTacToe.exe.config
+C:\Users\jabba\source\repos\Culbertson_TicTacToe\Culbertson_TicTacToe\bin\Debug\Culbertson_TicTacToe.exe
+C:\Users\jabba\source\repos\Culbertson_TicTacToe\Culbertson_TicTacToe\bin\Debug\Culbertson_TicTacToe.pdb
+C:\Users\jabba\source\repos\Culbertson_TicTacToe\Culbertson_TicTacToe\obj\Debug\Culbertson_TicTacToe.exe
+C:\Users\jabba\source\repos\Culbertson_TicTacToe\Culbertson_TicTacToe\obj\Debug\Culbertson_TicTacToe.pdb

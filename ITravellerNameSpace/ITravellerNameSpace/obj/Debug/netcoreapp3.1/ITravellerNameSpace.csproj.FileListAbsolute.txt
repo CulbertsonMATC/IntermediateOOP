@@ -1,0 +1,9 @@
+C:\Users\jabba\source\repos\ITravellerNameSpace\ITravellerNameSpace\bin\Debug\netcoreapp3.1\ITravellerNameSpace.deps.json
+C:\Users\jabba\source\repos\ITravellerNameSpace\ITravellerNameSpace\bin\Debug\netcoreapp3.1\ITravellerNameSpace.dll
+C:\Users\jabba\source\repos\ITravellerNameSpace\ITravellerNameSpace\bin\Debug\netcoreapp3.1\ITravellerNameSpace.pdb
+C:\Users\jabba\source\repos\ITravellerNameSpace\ITravellerNameSpace\obj\Debug\netcoreapp3.1\ITravellerNameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabba\source\repos\ITravellerNameSpace\ITravellerNameSpace\obj\Debug\netcoreapp3.1\ITravellerNameSpace.AssemblyInfoInputs.cache
+C:\Users\jabba\source\repos\ITravellerNameSpace\ITravellerNameSpace\obj\Debug\netcoreapp3.1\ITravellerNameSpace.AssemblyInfo.cs
+C:\Users\jabba\source\repos\ITravellerNameSpace\ITravellerNameSpace\obj\Debug\netcoreapp3.1\ITravellerNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\jabba\source\repos\ITravellerNameSpace\ITravellerNameSpace\obj\Debug\netcoreapp3.1\ITravellerNameSpace.dll
+C:\Users\jabba\source\repos\ITravellerNameSpace\ITravellerNameSpace\obj\Debug\netcoreapp3.1\ITravellerNameSpace.pdb
